@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openerp>
+  <data>
+
+        <record model="account.account.type" id="fr_pcg_m14_default_type">
+          <field name="name">Non défini</field>
+          <field name="code">DEFAUT</field>
+          <field name="close_method">none</field>
+          <field name="report_type">none</field>
+        </record>
+    </data>
+</openerp>
