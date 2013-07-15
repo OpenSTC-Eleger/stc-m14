@@ -334,7 +334,8 @@ pcg_m14_218,218,Autres immobilisations corporelles,view,l10n_fr_m14.pcg_m14_21,l
 pcg_m14_2181,2181,"Installations générales, agencements et aménagements divers",other,l10n_fr_m14.pcg_m14_218,l10n_fr_m14.fr_pcg_m14_default_type
 pcg_m14_2182,2182,Matériel de transport,other,l10n_fr_m14.pcg_m14_218,l10n_fr_m14.fr_pcg_m14_default_type
 pcg_m14_2183,2183,Matériel de bureau et matériel informatique,other,l10n_fr_m14.pcg_m14_218,l10n_fr_m14.fr_pcg_m14_default_type
-pcg_m14_2184,2184,Mobilier,other,l10n_fr_m14.pcg_m14_218,l10n_fr_m14.fr_pcg_m14_default_type
+pcg_m14_2184,2184,Mobilier,view,l10n_fr_m14.pcg_m14_218,l10n_fr_m14.fr_pcg_m14_default_type
+pcg_m14_218404,218404,Mobilier,other,l10n_fr_m14.pcg_m14_2184,l10n_fr_m14.fr_pcg_m14_default_type
 pcg_m14_2185,2185,Cheptel,other,l10n_fr_m14.pcg_m14_218,l10n_fr_m14.fr_pcg_m14_default_type
 pcg_m14_2188,2188,Autres immobilisations corporelles,other,l10n_fr_m14.pcg_m14_218,l10n_fr_m14.fr_pcg_m14_default_type
 pcg_m14_22,22,IMMOBILISATIONS REÇUES EN AFFECTATION,view,l10n_fr_m14.pcg_m14_0,l10n_fr_m14.fr_pcg_m14_default_type
@@ -887,6 +888,7 @@ pcg_m14_4571,4571,Dépenses,other,l10n_fr_m14.pcg_m14_457,l10n_fr_m14.fr_pcg_m14
 pcg_m14_4572,4572,Recettes,other,l10n_fr_m14.pcg_m14_457,l10n_fr_m14.fr_pcg_m14_default_type
 pcg_m14_458,458,Opérations sous mandat (à subdiviser par mandat),view,l10n_fr_m14.pcg_m14_45,l10n_fr_m14.fr_pcg_m14_default_type
 pcg_m14_4581,4581,Dépenses (à subdiviser par mandat),other,l10n_fr_m14.pcg_m14_458,l10n_fr_m14.fr_pcg_m14_default_type
+pcg_m14_45811,45811,Permission de voirie,other,l10n_fr_m14.pcg_m14_458,l10n_fr_m14.fr_pcg_m14_default_type
 pcg_m14_4582,4582,Recettes (à subdiviser par mandat),other,l10n_fr_m14.pcg_m14_458,l10n_fr_m14.fr_pcg_m14_default_type
 pcg_m14_46,46,DEBITEURS ET CREDITEURS DIVERS,view,l10n_fr_m14.pcg_m14_0,l10n_fr_m14.fr_pcg_m14_default_type
 pcg_m14_461,461,Dons et legs en instance,other,l10n_fr_m14.pcg_m14_46,l10n_fr_m14.fr_pcg_m14_default_type
